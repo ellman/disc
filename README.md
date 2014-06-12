@@ -5,10 +5,10 @@
 
 **Explanation:**
 
-Does it work (Delivers on promises)
-Issues (Are issues handled or are they neglected)
-Support (Is support available from the maintainers or parent company)
-Community (Is there an active community and community contribution)
+ 1. Does it work (Delivers on promises)
+ 2. Issues (Are issues handled or are they neglected)
+ 3. Support (Is support available from the maintainers or parent company)
+ 4. Community (Is there an active community and community contribution)
 
 Future home for the project is discit.org (as in rate it)
 
