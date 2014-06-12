@@ -1,7 +1,9 @@
 #D.I.S.C
 ========
 
-##DISC rating system for opensource projects
+##DISC rating system for opensource projects.
+
+Initial versions will specialize in javascript npm projects hosted on git.
 
 **Explanation:**
 
